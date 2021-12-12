@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Sudheer Profile. Vizag,AP </h1>
+<h1 align="center">Welcome to Sudheer Devops Profile. Vizag,Andhra Pradesh </h1>
 <h1 align="center"> I Sudheer, Working as devops engineer at E-SOL Technologies.. and I had Expereince in K8, Docker, Jenkins, linux, Shellscript,Maven, Git, Helm, Terrraform, Ansible </h1>
 <hr>
 <br>
@@ -40,7 +40,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		+91-7993887653
 		sudheerdevopeng@gmail.com
 		<br>
-		<a href="mailto:devopstrainingblr@gmail.com">Mail to Mithun Technologies</a>
+		<a href="mailto:devopstrainingblr@gmail.com">Mail to Sudheer Devops</a>
 	</span>
 </div>
 <hr>
@@ -48,7 +48,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 <hr>
 <hr>
 <p align=center>Sudheer Technologies - Consultant, Training, Development Center.</p>
-<p align=center><small>Copyrights 2019 by <a href="http://google.com/">Mithun Technologies</a> </small></p>
+<p align=center><small>Copyrights 2019 by <a href="http://google.com/">Sudheer Devops</a> </small></p>
 
 </body>
 </html>

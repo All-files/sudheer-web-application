@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Sudheer Devops Profile. Vizag,Andhra Pradesh </h1>
+<h1 align="center">Welcome to Chakri Anakapalli Devops Profile. Vizag,Andhra Pradesh </h1>
 <h1 align="center"> I Sudheer, Having 3.5+ years of Exp. Working as devops engineer at E-SOL Technologies.. and I had Expereince in K8, Docker, Jenkins, linux, Shellscript,Maven, Git, Helm, Terrraform, Ansible </h1>
 <hr>
 <br>
@@ -34,7 +34,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		<img src="images/mithunlogo.jpg" alt="" width="5">
 	</span>
 	<span style="font-weight: bold;">
-		Sudheer Technologies, 
+		Chakri Technologies, 
 		Maddilapalem, Above ICICI Bank, Beside Kalabharathi,
 		Vizag,
 		+91-7993887653

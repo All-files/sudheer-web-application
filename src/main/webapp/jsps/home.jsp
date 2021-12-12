@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to Sudheer Devops Profile. Vizag,Andhra Pradesh </h1>
-<h1 align="center"> I Sudheer, Working as devops engineer at E-SOL Technologies.. and I had Expereince in K8, Docker, Jenkins, linux, Shellscript,Maven, Git, Helm, Terrraform, Ansible </h1>
+<h1 align="center"> I Sudheer, Having 3.5+ years of Exp. Working as devops engineer at E-SOL Technologies.. and I had Expereince in K8, Docker, Jenkins, linux, Shellscript,Maven, Git, Helm, Terrraform, Ansible </h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
@@ -31,11 +31,11 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 <hr>
 <div style="text-align: center;">
 	<span>
-		<img src="images/mithunlogo.jpg" alt="" width="100">
+		<img src="images/mithunlogo.jpg" alt="" width="5">
 	</span>
 	<span style="font-weight: bold;">
 		Sudheer Technologies, 
-		Maddilapalem, Above ICICI Bank, Beside Meghana Foods,
+		Maddilapalem, Above ICICI Bank, Beside Kalabharathi,
 		Vizag,
 		+91-7993887653
 		sudheerdevopeng@gmail.com

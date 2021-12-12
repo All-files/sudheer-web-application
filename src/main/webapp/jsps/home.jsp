@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to Chakri Anakapalli Devops Profile. Vizag,Andhra Pradesh </h1>
-<h1 align="center"> I Sudheer, Having 3.5+ years of Exp. Working as devops engineer at E-SOL Technologies.. and I had Expereince in K8, Docker, Jenkins, linux, Shellscript,Maven, Git, Helm, Terrraform, Ansible </h1>
+<h1 align="center"> I Chakri, Having 3.5+ years of Exp. Working as devops engineer at E-SOL Technologies.. and I had Expereince in K8, Docker, Jenkins, linux, Shellscript,Maven, Git, Helm, Terrraform, Ansible </h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>

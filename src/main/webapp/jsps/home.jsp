@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to sudheer Software Solutions. Bengaluru,Karnataka </h1>
+<h1 align="center">Welcome to sudheer Software Solutions. Vizag,A.P </h1>
 <h1 align="center"> sudheer Software Solutions- Very Good Training center for DevOps with AWS in Vizag India and also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
 <hr>
 <br>
@@ -35,12 +35,12 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 	</span>
 	<span style="font-weight: bold;">
 		Sudheer Technologies, 
-		Maddilapalem, Above ICICI Bank, Beside Meghana Foods,
+		Maddilapalem, Above ICICI Bank,
 		Vizag,
 		+91-7993887653
 		sudheerdevopeng@gmail.com
 		<br>
-		<a href="mailto:devopstrainingblr@gmail.com">Mail to Mithun Technologies</a>
+		<a href="mailto:sudheerdevopeng@gmail.com">Mail to Sudheer Technologies</a>
 	</span>
 </div>
 <hr>
@@ -48,7 +48,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 <hr>
 <hr>
 <p align=center>Sudheer Technologies - Consultant, Training, Development Center.</p>
-<p align=center><small>Copyrights 2019 by <a href="http://google.com/">Mithun Technologies</a> </small></p>
+<p align=center><small>Copyrights 2019 by <a href="http://google.com/">Sudheer Technologies</a> </small></p>
 
 </body>
 </html>
